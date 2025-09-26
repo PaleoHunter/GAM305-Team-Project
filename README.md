@@ -29,7 +29,7 @@ I believe it would be a good idea that every time the project is commited or upd
 [Schedule]
 We will constantly play test the game during the preproduction to make sure the game runs smoothly. While we might miss some things like every game company in the world, we will create a Demo for players to test out and give feedback. This allows us to make changes and fix any problems before a full release. 
 
-##Module Four Team Refelction
+## Module Four Team Refelction
 
 What went Well?
 Nick created a Top-Down player character. He used the help of one of Unreal Engines test projects to get an idea of how it should work. The player character features two types of movement. The first is a point and click and the other is keyboard inputs. This allows players to have a choice on how they want to play the game. 
