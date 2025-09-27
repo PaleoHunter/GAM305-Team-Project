@@ -1,4 +1,4 @@
-## Module Two Team Project Plan
+[--## Module Two Team Project Plan
 Nicholas Wilkins [Member] {Responsibilites: Possible Game Tester
 
 Michael May [Member] {Responsibilites:
@@ -32,15 +32,18 @@ We will constantly play test the game during the preproduction to make sure the 
 ## Module Four Team Refelction
 
 What went Well?
-Nick created a Top-Down player character. He used the help of one of Unreal Engines test projects to get an idea of how it should work. The player character features two types of movement. The first is a point and click and the other is keyboard inputs. This allows players to have a choice on how they want to play the game. 
+Nick created a Top-Down player character. He used the help of one of Unreal Engines test projects to get an idea of how it should work. The player character features two forms of movement options with the keyboard/mouse and a fire action. The first movement is keyboard inputs that utalize W,A,S,D to point the player in a certain direction. The secound player movement is a rotation. The Player character follows the mouse around the screen. A fire action activated by the left mouse click is used with the rotation of the player so the projectile that was added can hit the enemies. The enemy characters will follow the player across the map and if they come in contact with the player the player get destroyed. If the projectile makes contact with the enemy first then the enemy is destroyed.
 
 What would you do differently?:
+I would like to try and make sure I have more time to work on the project. I dont want to have this project in the back of my mind and have to rush certain parts to make sure it gets done just because the rest of my life is a bit busy. I want to implement some possible animations to go along with the fire machanic and have some variation in enemy types. The map needs to have some scenery so it doesnt look so bland but I just wanted to make sure there was some gameplay to give the project life.
 
 Possible Bugs
 A bug that was fixed in a matter of minutes was the inputs for the directions being wrong or backwards. It was eventually fixed by adjusting the code to send the right inputs when certain buttons were pressed. It was a simple mistake that could have messed up the team when testing a level layout in the future.
-The one of the issues that we expierenced was a lighting glitch which has been solved as of yet. The lights will work if they are moved then the level is played but as soon as the file is saved the lights wont show up in the playable level. This is an issue that still needs to be solved.
+The one of the issues that we expierenced was a lighting glitch which has been solved. The lights won't work when the level is played but I eventually relized that I acidently removed the object that made the light. While it may not have been a bug it was still an issue that was overcome.
+When making the projectile for the player character the object wouldnt fire. It turns out a bit of the code I made was wrong but got it fixed and the correct mesh wasnt applied so it wasnt appearing when fired.
 
 Helpful tools:
-The use of youtube and looking at the basic Unreal Projects that are provided help Nick out when he is working. They give him a clear view of what he is supposed to do or how to fix an issues that he has run into. 
+The use of youtube and looking at the basic Unreal Projects that are provided help Nick out when he is working. They give him a clear view of what he is supposed to do or how to fix an issues that he has run into. Youtube supplies many videos and tutorials on how to get any idea for the project to be functional. These videos come in handy just in case the user forgets how to do something in unreal engine. 
 
 Not so Helpful tools:
+So far I havent found any tools that where not helpful in some fashion to me. 
