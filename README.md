@@ -81,13 +81,21 @@ I also haven't found any non-useful tools
 
 What Went Well?
 
+//Nick I had the code working perfectly for the movement of the player and the enemy. The fire mechanism destroys the enemy when hit. I created some object for the player to manuver through when trying to attack the enemeny. I have also not expierenced any forms of interactions with the map layout that would cause me to change it.
+
 
 What Went Wrong?
+
+//Nick
+I encountered an error when pushing the updates to github. "Deletion of directory 'Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/MJ' failed. Should I try again? (y/n) y". It kept popping up and I dont no why but when I typed no it ended up removing what i had done and i had to redo most of what I implemented. Once I figure out the reason for this message appering I hope it will stop me from having to do stuff over.
 
 
 What would we do Differently?
 
+//Nick
+I want to make it so that the enemy characters will respawn when killed that way the player has more things to fight. Not having a respawn point makes the enemies feel not as terifying. The player could easily take out the ones on the map and be left with nothing to do. I also want to impliment a scoreboard to count the players kills so people can compare to see how well they did before being overrun by the enemy. To combat the issue I have been having with the error when pushing to github I will make a clone of the project so that if anything gets deleted I can easily copy it from the other project clone without having to waste hours doing what I have already completed.
+
 
 Tools/Techniques Not Helpful?
-
+While I have been mainly using the same tools as last time and not had many issues, I began to run into a few with GitHub and Unreal Engine 5. When trying to push to github some of the stuff that I have created in Unreal pops up as errors and it will delete what I have done because it wont accept my yes command to keep it. This causes me to have to rewrite what i have done while adding what needs to be completed for this week. Hopefully I can understand the issue and fix it soon.
 
