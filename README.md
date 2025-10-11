@@ -93,9 +93,25 @@ I encountered an error when pushing the updates to github. "Deletion of director
 What would we do Differently?
 
 //Nick
+
 I want to make it so that the enemy characters will respawn when killed that way the player has more things to fight. Not having a respawn point makes the enemies feel not as terifying. The player could easily take out the ones on the map and be left with nothing to do. I also want to impliment a scoreboard to count the players kills so people can compare to see how well they did before being overrun by the enemy. To combat the issue I have been having with the error when pushing to github I will make a clone of the project so that if anything gets deleted I can easily copy it from the other project clone without having to waste hours doing what I have already completed.
 
 
 Tools/Techniques Not Helpful?
+
+//Nick
+
 While I have been mainly using the same tools as last time and not had many issues, I began to run into a few with GitHub and Unreal Engine 5. When trying to push to github some of the stuff that I have created in Unreal pops up as errors and it will delete what I have done because it wont accept my yes command to keep it. This causes me to have to rewrite what i have done while adding what needs to be completed for this week. Hopefully I can understand the issue and fix it soon.
 
+
+## Module Six Project Log - Team Reflection
+
+What Went Well?
+
+What Went Wrong?
+
+What Previous Evaluations that were integrated?
+
+What would we do Differently?
+
+Tools/Techniques Not Helpful?
