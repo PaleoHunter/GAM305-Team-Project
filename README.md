@@ -81,7 +81,8 @@ I also haven't found any non-useful tools
 
 What Went Well?
 
-//Nick I had the code working perfectly for the movement of the player and the enemy. The fire mechanism destroys the enemy when hit. I created some object for the player to manuver through when trying to attack the enemeny. I have also not expierenced any forms of interactions with the map layout that would cause me to change it.
+//Nick 
+I had the code working perfectly for the movement of the player and the enemy. The fire mechanism destroys the enemy when hit. I created some object for the player to manuver through when trying to attack the enemeny. I have also not expierenced any forms of interactions with the map layout that would cause me to change it.
 
 
 What Went Wrong?
@@ -93,14 +94,12 @@ I encountered an error when pushing the updates to github. "Deletion of director
 What would we do Differently?
 
 //Nick
-
 I want to make it so that the enemy characters will respawn when killed that way the player has more things to fight. Not having a respawn point makes the enemies feel not as terifying. The player could easily take out the ones on the map and be left with nothing to do. I also want to impliment a scoreboard to count the players kills so people can compare to see how well they did before being overrun by the enemy. To combat the issue I have been having with the error when pushing to github I will make a clone of the project so that if anything gets deleted I can easily copy it from the other project clone without having to waste hours doing what I have already completed.
 
 
 Tools/Techniques Not Helpful?
 
 //Nick
-
 While I have been mainly using the same tools as last time and not had many issues, I began to run into a few with GitHub and Unreal Engine 5. When trying to push to github some of the stuff that I have created in Unreal pops up as errors and it will delete what I have done because it wont accept my yes command to keep it. This causes me to have to rewrite what i have done while adding what needs to be completed for this week. Hopefully I can understand the issue and fix it soon.
 
 
@@ -108,10 +107,26 @@ While I have been mainly using the same tools as last time and not had many issu
 
 What Went Well?
 
+//Nick
+I figured out a way to stop my updates to the project from being deleted. I created backups to work on so none of my stuff would be lost. I also added a few features to the project for the player to interact with. The map layout with all the included objects dont cause any issues with movement of the player. All actions work as planned like movement and fire actions. The enemy also fallows and destroys the player on contact.
+
 What Went Wrong?
+
+//Nick
+Im still having an issue with the project deleting stuff i have done when trying to push to the github repository. I still dont know the reason for this but I managed to find a way to keep my project intact. When implementing the scoreboard for the game I had an issue with it multiplying the score after destroying an enemy. The speed up ability didnt work at first but it was becasue I plugged the wrong variable in.
 
 What Previous Evaluations that were integrated?
 
+//Nick
+I added more elements to the game project. A scoreboard was added that allows the player to see how many enemies have been destroyed by the player. It is activated by holding down the TAB button on the keyboard. I also put an ability that can be found arcoss the level that will increase the speed of the player so that you can speed out of a bind. The object is placede into the world and when the player comes into contact with it there speed basically doubles. I downloaded some free models off of the Unreal Engine site that I used to make it feel like the enemies were viking attacking the village. 
+
+
 What would we do Differently?
 
+//Nick 
+I would still like to have more time to possibly add more abilities or add some animations to make the game look better. The playercharacter looks pretty basic and has no animation besides running. The bullets that are fired when the left mouse button is pressed are just cones that are stretched but I wanted to desgin it so it looked like a bow and arrow was being shot.
+
 Tools/Techniques Not Helpful?
+
+//Nick
+While I have been mainly using the same tools as last time and not had many issues, I still have an issue with GitHub and Unreal Engine 5. When trying to push to github some of the stuff that I have created in Unreal pops up as errors and it will delete what I have done because it wont accept my yes command to keep it. This caused me to have to rewrite what I have done while adding what needs to be completed for this week. I found out how useful the Unreal Engine store is with free object that I can download to make my project look better. I download a village file that included objects that I could place on the level and spruce it up. 
